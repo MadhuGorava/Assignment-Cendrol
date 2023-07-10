@@ -1,0 +1,62 @@
+.app-container {
+  background-color: aquamarine;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  overflow-y: auto;
+}
+.header {
+  font-family: "Roboto";
+  font-size: 30px;
+  text-align: center;
+}
+.list-items {
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.list-items li {
+  width: 100px;
+  height: 100px;
+  background-color: antiquewhite;
+  color: blue;
+  font-family: "Roboto";
+  font-size: 15px;
+  font-weight: 600;
+  margin: 7px;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.text-container {
+  margin-left: 65px;
+  background-color: black;
+  width: 80%;
+  height: 100px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+  border: 1px solid brown;
+}
+.text-container p {
+  color: bisque;
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+}
+.text-container button {
+  background-color: blue;
+  border-radius: 10px;
+  color: antiquewhite;
+  font-family: "Roboto";
+  font-size: 15px;
+  text-align: center;
+  padding: 5px;
+}
