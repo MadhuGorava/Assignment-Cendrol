@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/MadhuGorava/Assignment-Cendrol/static/css/main.7f3f686c.css",
+    "main.js": "/MadhuGorava/Assignment-Cendrol/static/js/main.5a152580.js",
+    "static/js/787.9d2d08f9.chunk.js": "/MadhuGorava/Assignment-Cendrol/static/js/787.9d2d08f9.chunk.js",
+    "index.html": "/MadhuGorava/Assignment-Cendrol/index.html",
+    "main.7f3f686c.css.map": "/MadhuGorava/Assignment-Cendrol/static/css/main.7f3f686c.css.map",
+    "main.5a152580.js.map": "/MadhuGorava/Assignment-Cendrol/static/js/main.5a152580.js.map",
+    "787.9d2d08f9.chunk.js.map": "/MadhuGorava/Assignment-Cendrol/static/js/787.9d2d08f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f3f686c.css",
+    "static/js/main.5a152580.js"
+  ]
+}
